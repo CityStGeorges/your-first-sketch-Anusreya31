@@ -1,2 +1,4 @@
-Name:
-Email:
+Name: Anusreya Basak
+Email: Anusreya.Basak@city.ac.uk
+
+This file is to monitor the name and email address of a GitHub user.
